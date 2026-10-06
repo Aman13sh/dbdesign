@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Generated Prisma Client
+src/generated/
+
+# Environment variables
+.env
+
+# OS / System files
+.DS_Store
